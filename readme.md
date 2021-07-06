@@ -2,9 +2,7 @@
 
 -   React native app
 
-![image](src/assets/img_demo/0.jpg)
-
-![image](src/assets/img_demo/1.jpg)
+![image](src/assets/img_demo/0.jpg) ![image](src/assets/img_demo/1.jpg)
 
 ![image](src/assets/img_demo/2.jpg)
 
